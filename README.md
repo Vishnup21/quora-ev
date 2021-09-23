@@ -1,2 +1,2 @@
 # quora-ev
-Quora for Elecctronic vecchicals 
+Quora for Electronic vecchicals 
